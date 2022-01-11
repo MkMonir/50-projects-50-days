@@ -1,1 +1,1 @@
-# vanilla Web Projects for practice JavaScript
+# 50 Projects in 50 Days - HTML/CSS and JavaScript
